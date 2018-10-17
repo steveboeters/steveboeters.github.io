@@ -1,0 +1,8 @@
+- name: "Steve"
+  occupation: "GameDeveloper"
+
+- name: "Frank"
+  occupation: "Bus Driver"
+
+- name: "Kim"
+  occupation: "Lawyer"
