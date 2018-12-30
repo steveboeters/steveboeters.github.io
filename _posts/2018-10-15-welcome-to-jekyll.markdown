@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: home
 title:  "Welcome to my portfolio!"
 date:   2018-10-14 22:27:54 +0200
 categories: jekyll update
