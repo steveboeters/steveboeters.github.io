@@ -1,11 +1,9 @@
 ---
 layout: single
-title: About
-permalink: /about/
+permalink: /resume/
+author_profile: true
 ---
 
-I develop games and have a wide skill set.
-
-Read my CV here
+My resume can be found below, the image links to a PDF version.
 
 [![CV Thumbnail](/assets/img/CV-Steve-Boeters-thumbnail.png)](/assets/CV_Steve_Boeters.pdf)

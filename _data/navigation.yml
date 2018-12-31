@@ -1,5 +1,8 @@
 main:
-  - title: "Resume"
-    url: /about/
   - title: "Portfolio"
-    url: portfolio
+    description: Features all my portfolio pieces
+    url: /
+  - title: "Resume"
+    url: /resume/
+    description: Features my resume
+  
