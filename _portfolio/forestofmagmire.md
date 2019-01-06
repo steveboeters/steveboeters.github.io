@@ -18,7 +18,7 @@ gallery:
     alt: "Forest of Magmire image 4" 
 ---
 
-![Forest of Magmire header image](/assets/img/portfolio/forestofmagmire/forest_of_magmire_1.jpg)
+[![Forest of Magmire header image](/assets/img/portfolio/forestofmagmire/forest_of_magmire_1.jpg)](/assets/img/portfolio/forestofmagmire/forest_of_magmire_1.jpg)
 
 The game is created during my employment at Motekforce Link as a project for Northeastern University.  I served as the only programmer and did most of the design work. I also had a lot of interaction with the client to iterate on the game.
 

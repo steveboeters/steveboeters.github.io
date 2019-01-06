@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Rijndam Demonstration" 
+title: "Rijndam Demo" 
 excerpt: "A proof of concept made to showcase the use of a force feedback glove for physical rehabilitation"
 
 header:
@@ -18,7 +18,7 @@ gallery:
     alt: "RijndamDemonstration image 4"
 ---
 
-![RijndamDemonstration header image](/assets/img/portfolio/rijndamdemonstration/rijndamdemonstration_1.jpg)
+[![RijndamDemo header image](/assets/img/portfolio/rijndamdemonstration/rijndamdemonstration_1.jpg)](/assets/img/portfolio/rijndamdemonstration/rijndamdemonstration_1.jpg)
 
 A demonstration made within two weeks to showcase the [Sense Glove](https://www.senseglove.com/) capabilities for physical rehabilitation. It was a proof of concept in collaboration with a developer from Sense Glove. They were mostly responsible for logging and having the glove work. The product was made for people with limited motor skill and contained simple exercises that an operator could switch between on a keyboard. Most of the assets were reused from a different project I worked on.
 

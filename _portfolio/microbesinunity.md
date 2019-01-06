@@ -21,7 +21,7 @@ gallery:
     alt: "Microbes image 5" 
 ---
 
-![Microbes header image](/assets/img/portfolio/microbes/microbes_1.png)
+[![Microbes header image](/assets/img/portfolio/microbes/microbes_1.png)](/assets/img/portfolio/microbes/microbes_1.png)
 
 For my graduation project at Motekforce Link I had to transfer one of their games to Unity. The original game was created in their own engine named D-Flow. I needed to rebuild the game with the help of the original Lua source code.
 
