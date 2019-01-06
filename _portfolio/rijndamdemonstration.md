@@ -20,7 +20,7 @@ gallery:
 
 [![RijndamDemo header image](/assets/img/portfolio/rijndamdemonstration/rijndamdemonstration_1.jpg)](/assets/img/portfolio/rijndamdemonstration/rijndamdemonstration_1.jpg)
 
-A demonstration made within two weeks to showcase the [Sense Glove](https://www.senseglove.com/) capabilities for physical rehabilitation. It was a proof of concept in collaboration with a developer from Sense Glove. They were mostly responsible for logging and having the glove work. The product was made for people with limited motor skill and contained simple exercises that an operator could switch between on a keyboard. Most of the assets were reused from a different project I worked on.
+A demonstration made within two weeks to showcase the [Sense Glove](https://www.senseglove.com/) capabilities for physical rehabilitation. It was a proof of concept in collaboration with a developer from Sense Glove. They were mostly responsible for logging and having the glove work. The product was made for people with limited motor skill and contained simple exercises that an operator could switch between on a keyboard. Most of the assets were reused from [a different project](/portfolio/tryspace) I worked on.
 
 <video width="100%" height="auto" controls="controls">
   <source src="/assets/vids/stackingblocks.mp4" type="video/mp4">
