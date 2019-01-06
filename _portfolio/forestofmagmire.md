@@ -1,16 +1,12 @@
 ---
 layout: single
 title: "Forest of Magmire" 
-excerpt: "Game targeted towards children created for Northeastern University."
+excerpt: "Game targeted towards children created for Northeastern University"
 
 header:
-  image: /assets/img/portfolio/forestofmagmire/forest_of_magmire_1.jpg
   teaser: /assets/img/portfolio/forestofmagmire/forest_of_magmire_1-th.jpg
 
 gallery:
-  - url: /assets/img/portfolio/forestofmagmire/forest_of_magmire_1.jpg
-    image_path: /assets/img/portfolio/forestofmagmire/forest_of_magmire_1-th.jpg
-    alt: "Forest of Magmire image 1"
   - url: /assets/img/portfolio/forestofmagmire/forest_of_magmire_2.jpg
     image_path: /assets/img/portfolio/forestofmagmire/forest_of_magmire_2-th.jpg
     alt: "Forest of Magmire image 2"
@@ -21,6 +17,8 @@ gallery:
     image_path: /assets/img/portfolio/forestofmagmire/levac_playing_lights_off-th.jpg
     alt: "Forest of Magmire image 4" 
 ---
+
+![Forest of Magmire header image](/assets/img/portfolio/forestofmagmire/forest_of_magmire_1.jpg)
 
 The game is created during my employment at Motekforce Link as a project for Northeastern University.  I served as the only programmer and did most of the design work. I also had a lot of interaction with the client to iterate on the game.
 
