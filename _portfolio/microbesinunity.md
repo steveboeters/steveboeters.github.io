@@ -2,6 +2,7 @@
 layout: single
 title: "Microbes in Unity" 
 excerpt: "An Unity conversion of a game that was created at Motek Forcelink"
+date:   2014-10-14 22:27:54 +0200
 
 header:
   teaser: /assets/img/portfolio/microbes/microbes_1-th.png

@@ -2,6 +2,7 @@
 layout: single
 title: "Social Worlds" 
 excerpt: "A project that allows therapists to control a virtual environment to help patients"
+date:   2012-01-01 22:27:54 +0200
 
 header:
   teaser: /assets/img/portfolio/socialworlds/socialworlds_1-th.jpg

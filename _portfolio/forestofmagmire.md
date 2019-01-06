@@ -2,6 +2,7 @@
 layout: single
 title: "Forest of Magmire" 
 excerpt: "Game targeted towards children created for Northeastern University"
+date:   2015-10-14 22:27:54 +0200
 
 header:
   teaser: /assets/img/portfolio/forestofmagmire/forest_of_magmire_1-th.jpg
