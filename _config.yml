@@ -17,7 +17,7 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 author:
   avatar: "/assets/img/avatar.jpg"
   bio: |
-    I am a game developer who focuses on programming, game design and management. Here you can find information about me and my work.
+    I am a game developer who focuses on management, programming and game design. Here you can find information about me and my work.
   location: "Voorburg, The Netherlands"
   email: contact@steveboeters.nl
 
@@ -34,7 +34,6 @@ collections:
 title: Steve Boeters
 email: contact@steveboeters.nl
 description: >- # this means to ignore newlines until "baseurl:"
-  My name is Steve and welcome to my portfolio.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 

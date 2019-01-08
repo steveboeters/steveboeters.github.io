@@ -29,6 +29,6 @@ gallery:
 
 I have worked as a developer and Scrum Master on a project that is used as exposure therapy. A therapist can use a VR world as a substitute for the normal world to see how a patient would react and be able to practice. The therapist has a lot of control over the world through a seperate interface such as what type of people there are in the world or controlling how the characters are looking at the patient.
 
-I have been involved at various stages of the project, but mostly in the later stage of development where there was work on a bus environment in which I have done a lot of tweaking and bug fixing. I have worked with elements such as the audio, looking behaviour of the characters and character spawning.
+I have been involved at various stages of the project, but mostly in the later stages of development where there was work on a bus environment in which I have done a lot of tweaking and bug fixing. I have worked with elements such as the audio, looking behaviour of the characters and character spawning.
 
 {% include gallery %}

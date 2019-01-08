@@ -28,6 +28,6 @@ For my graduation project at Motekforce Link I had to transfer one of their game
 
 The game is played on a treadmill and features various tasks that can help with the walking disorders of patients. The character in the game can be controlled by the players positioning on the treadmill. The positioning of the player can be determined by the force plates in the treadmill or with the help of a Kinect if connected. The borders in the game indicate the dimensions of the treadmill so that the player knows where it is safe to walk.
 
-During the development I was responsible for implementing a communication protocol to another program that would communicate the available controls for the game. This makes it possible to use a seperate interface with more features that therapists can use with their patients. This implementation has also been used for other projects. The communication protocol was also utilized to control the hardware, instead of directly integrating the treadmill controls into Unity.
+During the development I was partly responsible for creating a communication protocol with another program that would communicate the available controls for the game. This makes it possible to use a seperate interface with more features that therapists can use with their patients. This implementation has also been used for other projects. The communication protocol was also utilized to control the hardware, instead of directly integrating the treadmill controls into Unity.
 
 {% include gallery %}

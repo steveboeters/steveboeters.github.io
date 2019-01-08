@@ -26,10 +26,8 @@ gallery:
 
 A VR research project in development which is a follow-up to [another project](/portfolio/tryspace) of mine. The other project is focused on creating repeatable scenarios to assess aggresive behaviour in children. This project is to treat those by children by having them roleplay various situations.
 
-An operator has control over specific characters in a situation and can engage in a roleplay with the participant. They can control emotion, animations and also the voice through a microphone with voice transformation. There is a wide variety of situations that the operator can use to trigger aggressive behaviour in children and teaching the participant how to do better.
+An operator has control over specific characters in a situation and can engage in a roleplay with the participant. They can control emotion, animations and also the voice through a microphone with voice transformation. There is a wide variety of situations that the operator can use to trigger aggressive behaviour in children and teaching the participant how to do better. The participant can have interaction with various things in the world. They can watch TV, play simple games or open doors to disengage from a situation. 
 
-The participant can have interaction with various things in the world. They can watch TV, play simple games or open doors to disengage from a situation. 
-
-I have been a manager for the project and among my responsibilites have been the team, time planning and communication with the clients. I also have acted as a generalist picking up various tasks such as programming, handling audio or setting up the situations.
+I have been a manager for the project and among my responsibilites have been the team, scheduling (time and resources) and communication with the clients. I have also done various development work such as programming, handling audio or setting up situations.
 
 {% include gallery %}
