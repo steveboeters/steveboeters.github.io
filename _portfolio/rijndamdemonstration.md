@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Rijndam Demo" 
-excerpt: "A proof of concept made to showcase the use of a force feedback glove for physical rehabilitation"
+excerpt: "A prototype made to showcase the use of a force feedback glove for physical rehabilitation"
 date:   2011-01-01 22:27:54 +0200
 
 header:
