@@ -15,7 +15,7 @@ gem "minima", "~> 2.0"
 gem 'jekyll-theme-hydejack', '~> 8.1', '>= 8.1.1'
 gem 'jekyll-swiss', '~> 1.0'
 
-gem 'activesupport', "~> 4.1.11"
+gem 'activesupport', "~> 6.0.6"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
