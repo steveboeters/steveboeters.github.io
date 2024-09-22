@@ -95,7 +95,6 @@ GEM
       tzinfo (>= 1.0.0)
     unicode-display_width (2.6.0)
     uri (0.13.1)
-    wdm (0.2.0)
     webrick (1.8.1)
 
 PLATFORMS
@@ -108,7 +107,6 @@ DEPENDENCIES
   jekyll-sass-converter (~> 2.2)
   minimal-mistakes-jekyll (~> 4.26)
   tzinfo-data
-  wdm (>= 0.2.0)
 
 BUNDLED WITH
    2.5.19
